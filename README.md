@@ -24,6 +24,16 @@ cg = CoinGeckoAPI()
 ## Examples
 
 ``` bash 
+C:\Users\Админ\Desktop\ass2>python assignment1coingecko.py
+Please define N top of cryptocurrencies
+5
+TOP 5
+1 BTC 796114696123
+2 ETH 337362698750
+3 USDT 69417385916
+4 ADA 68623640483
+5 BNB 53551514506
 
+C:\Users\Админ\Desktop\ass2>
 ```
 
