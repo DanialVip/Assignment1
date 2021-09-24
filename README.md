@@ -5,10 +5,10 @@ Write a Python code which pulls the data from coingecko.com, and filters out top
 ## Installation
 PyPl
 ``` bash 
-pip install pip install pycoingecko; pip install pandas;
-```
-
-``` bash 
 pip install pip install pycoingecko;
+```
+pandas
+``` bash 
+pip install pandas;
 ```
 
