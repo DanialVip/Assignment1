@@ -21,3 +21,9 @@ import pandas as pd
 cg = CoinGeckoAPI()
 ```
 
+## Examples
+
+``` bash 
+
+```
+
