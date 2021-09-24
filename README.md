@@ -23,7 +23,8 @@ cg = CoinGeckoAPI()
 
 ## Examples
 
-Entering any parameter to find N top cryptocurrencies
+Entering any parameter to find N top cryptocurrencies <numeric, name, cashflow> defined 
+from CoinGecko API doc (https://www.coingecko.com/api/docs/v3)
 
 List Top 5:
 ``` bash 
