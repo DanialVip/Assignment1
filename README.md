@@ -12,3 +12,12 @@ pandas
 pip install pandas;
 ```
 
+## Usage
+
+``` bash 
+from pycoingecko import CoinGeckoAPI
+import pprint
+import pandas as pd
+cg = CoinGeckoAPI()
+```
+
