@@ -1,1 +1,3 @@
-
+import requests
+import ArticleFinder
+from bs4 import BeautifulSoup
